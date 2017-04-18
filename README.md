@@ -1,2 +1,2 @@
 # dynamic_sliders
-Example of dynamic UI slider rendering and reporting in Shiny
+Shiny example of dynamic UI slider rendering and reading
