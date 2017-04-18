@@ -27,7 +27,7 @@ shinyUI(fluidPage(
                     DT::dataTableOutput("slider_values")
                 ),
                 column(width = 6,
-                    helpText("Document explanation will go here")
+                    helpText("This app provides a quick and simple example illustrating how to implement dynamically rendering slider inputs in Shiny.  Upon tackling this problem for a recent client project, I realized although relatively simple to implement, it is not a trival problem.  Thus I created this app to help my colleagues potentially navigate and tackle this problem if they ever encounter it.")
                 )
             )
         )
